@@ -41,15 +41,15 @@ module.exports = {
   networks: {
     hardhat: {},
     mumbai: {
-      url: 'https://polygon-mumbai.g.alchemy.com/v2/cEWuTHpdQ6CWZEpJfvrA6TVSYhfSnNgj',
-      accounts: [`0x${'17a640885f583152ab0ca8d442916d89127f16935b84a1a7536fb6a0f2978048'}`],
+      url: 'https://polygon-mumbai.g.alchemy.com/v2/smthing...',
+      accounts: [`0x${'smthing...'}`],
     },
     matic: {
-      url: 'https://rpc-mumbai.maticvigil.com/v1/add6e950c76ea969c7afc70655ff2c1e2182256e',
-      accounts: [`0x${'aaeaf1e1f1b2067bc9a76e38776fde629be85faa0e2de5602858e8e468a7c642'}`],
+      url: 'https://rpc-mumbai.maticvigil.com/v1/smthing...',
+      accounts: [`0x${'smthing...'}`],
     }
   },
   etherscan: {
-    apiKey: '1ZIGEI9MC24T255E9B1PMSP1W7QHXVR62Z'
+    apiKey: 'smthing...'
   },
 };
